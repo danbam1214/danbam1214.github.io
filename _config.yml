@@ -1,0 +1,46 @@
+# Site settings
+title: DanBam_Market
+description: '최저가의 쇼핑으로 돈을 아끼는 쇼핑몰'
+url: 'https://danbam1214.github.io'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+# disable_landing_page: true
+timezone: Asia/Seoul
+
+author:
+  name: 'DanBam'
+  email: snlee6999@gmail.com.com
+  twitter_username: vikirani1214
+  facebook_username: 
+  github_username: 
+  linkedin_username: 
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+
