@@ -1,12 +1,12 @@
 ---
-title: "경량패딩 추천 TOP10 -  남성용 경량 웰론 퀼팅 패딩 자켓 "
+title: "데스커책상 추천 TOP10 -  제닉스 ARENA POLAR DESK 1200 게이밍 컴퓨터 책상, 그레이 "
 author: SmartWiki
 categories: shopping
 tags: [Top10, shopping]
 pin: true
 ---
 
-> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**경량패딩**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**데스커책상**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
 <style>
     /* 기본 스타일 */
     .product-box {
@@ -58,27 +58,27 @@ pin: true
 <div>
 
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012090&vendorItemId=87289714604" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7063763347&traceid=V0-153&itemId=19634420556&vendorItemId=86740774168" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/68ca/8a8bd4b0a429e0dffed63de7cb13704348598a8b484c95931d661ea8272f.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/07/31/13/0/09cc31d7-16ee-4f87-a58d-c2321f1b106a.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        1.  남성용 경량 웰론 퀼팅 패딩 자켓 
+                        1.  제닉스 ARENA POLAR DESK 1200 게이밍 컴퓨터 책상, 그레이 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">8%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">38,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">98,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1259개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 281개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012090&vendorItemId=87289714604" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7063763347&traceid=V0-153&itemId=19634420556&vendorItemId=86740774168" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -87,27 +87,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111546173&traceid=V0-153&itemId=3586762063&vendorItemId=71572557005" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=3505381&traceid=V0-153&itemId=16587287&vendorItemId=3024792597" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2216017694578747-69c2e653-ccab-4632-bb47-b7b9403552af.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/images/2016/05/18/12/4/024d7750-c72d-4a76-bed9-e1738ba070e1.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        2.  캐럿 남여공용 경량 범버 자켓 
+                        2.  데스커 DSAD114D 컴퓨터데스크(1400x700) 책상, 상판-블랙/다리-블랙 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">33%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">29,990원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">169,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 5250개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 107개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111546173&traceid=V0-153&itemId=3586762063&vendorItemId=71572557005" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=3505381&traceid=V0-153&itemId=16587287&vendorItemId=3024792597" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -116,27 +116,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111547303&traceid=V0-153&itemId=3586763453&vendorItemId=71572558508" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7334994152&traceid=V0-153&itemId=18839643110&vendorItemId=3024792035" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2220460223953644-bc8921c0-d40f-4097-b881-ca03ba194556.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/images/2016/05/18/12/9/39da3459-a258-422a-8811-cdb9f3ecd78e.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        3.  캐럿 남성용 경량 패딩 자켓 
+                        3.  데스커 1600x700 컴퓨터 책상 DSAD116D, 상판-화이트/다리-화이트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">24,990원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">194,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 4991개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 138개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111547303&traceid=V0-153&itemId=3586763453&vendorItemId=71572558508" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7334994152&traceid=V0-153&itemId=18839643110&vendorItemId=3024792035" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -145,27 +145,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6059623179&traceid=V0-153&itemId=11136432287&vendorItemId=78414929918" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=3498880&traceid=V0-153&itemId=19886260634&vendorItemId=71809352938" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7598188672585429-36834081-4dd5-4feb-88e1-dc0d79f81338.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/images/2016/05/18/10/9/806114ee-6074-448b-86bc-ac0e158372ad.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        4.  캐럿 여성용 경량 덕다운 오리털 자켓 
+                        4.  데스커 1200x600 베이직 책상 DSAD212 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">30,890원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">109,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 2677개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 86개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6059623179&traceid=V0-153&itemId=11136432287&vendorItemId=78414929918" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=3498880&traceid=V0-153&itemId=19886260634&vendorItemId=71809352938" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -174,27 +174,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012089&vendorItemId=87289714535" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7589895898&traceid=V0-153&itemId=20054004702&vendorItemId=87150156827" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/3acf/1399899abb9d9b6a32cd5d3aa24806bd9211f2e7e08ccd3c4c00ef4b193a.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0e31/f85677dbd0cddaf3629747361360288cb304bec87216b8bdad60edbae721.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        5.  남성용 경량 웰론 퀼팅 패딩 자켓 
+                        5.  루나글램 게이밍 컴퓨터 책상 1200, 화이트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">34%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">38,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">81,900원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 4.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1259개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 976개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012089&vendorItemId=87289714535" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7589895898&traceid=V0-153&itemId=20054004702&vendorItemId=87150156827" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -203,27 +203,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6174744148&traceid=V0-153&itemId=12078522253&vendorItemId=79350471451" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=5999614505&traceid=V0-153&itemId=10855847018&vendorItemId=78135812398" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6c4f/9dec491f1a50438ee099885263c32222c7364fc758bb2d40a7f24513e488.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5d97/b28c16ff3f6e71fdbd46a333ea574bb68b18f50c30be9d74cc675370c043.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        6.  해리슨(당일출고) 다운라이크 노카라 경량 패딩 JM171 WSP1421 
+                        6.  에이픽스 높이조절 스탠딩 모션데스크 MD001 1400 높낮이조절책상, 화이트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">34%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">38,800원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">179,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 105개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 143개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6174744148&traceid=V0-153&itemId=12078522253&vendorItemId=79350471451" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=5999614505&traceid=V0-153&itemId=10855847018&vendorItemId=78135812398" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -232,27 +232,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7432580016&traceid=V0-153&itemId=19307405374&vendorItemId=86421731808" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7390485984&traceid=V0-153&itemId=19106435115&vendorItemId=85917591534" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1379689148863377-a6b85835-0547-4cff-84c6-79da01a17aa5.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/203c/54d656fbd0880ad7c769817b2b9110422967f186755ce543105b3c84d5df.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        7.  ELLE PARIS 여성용 경량 패딩 점퍼 
+                        7.  데스커 1400폭 5단 책상세트 (콘센트형 조명+도어형) DSCJ145ALS, 화이트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">10%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">32,890원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">688,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 462개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7432580016&traceid=V0-153&itemId=19307405374&vendorItemId=86421731808" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7390485984&traceid=V0-153&itemId=19106435115&vendorItemId=85917591534" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -261,27 +261,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6673869287&traceid=V0-153&itemId=15364398208&vendorItemId=82584581221" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=3498878&traceid=V0-153&itemId=16555446&vendorItemId=3024749896" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/8485207648201602-26076caa-87f3-4729-86fa-7dad75c18e2f.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/images/2016/05/18/11/3/2db7072a-10e5-4489-b62a-8387cecb4a90.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        8.  ELLE PARIS 여성 경량 덕다운 숏 자켓 
+                        8.  데스커 DSAD012 베이직 데스크(1200x800) 책상, 상판-메이플/다리-화이트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">32,690원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">125,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1635개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 35개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6673869287&traceid=V0-153&itemId=15364398208&vendorItemId=82584581221" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=3498878&traceid=V0-153&itemId=16555446&vendorItemId=3024749896" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -290,27 +290,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7584509169&traceid=V0-153&itemId=20028068748&vendorItemId=87126162464" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7762511890&traceid=V0-153&itemId=20936232007&vendorItemId=88002668546" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/489e/f7291cd5db992f2a77f897979f3c2044eebfa4d3daa189805ff9d615d870.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/3946/6d8b25f0b00aadf81bc96ce7f8b9887b1ecb0f9fa5a580c092de7571e1f1.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        9.  비소프 긴팔 루즈핏 집업 니트 
+                        9.  쇼엔 사무실 책상 컴퓨터 테이블 멀티책상 1200 1600, 화이트프레임+우드상판 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">50%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">27,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">119,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 92개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 31개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7584509169&traceid=V0-153&itemId=20028068748&vendorItemId=87126162464" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7762511890&traceid=V0-153&itemId=20936232007&vendorItemId=88002668546" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -319,27 +319,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7825721610&traceid=V0-153&itemId=21269815075&vendorItemId=88330074465" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=161314697&traceid=V0-153&itemId=14862218017&vendorItemId=71054213826" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a2e5/591bdcbf5d84608f9cb6ad39b439dce1b3fbba7646c5ddd486c5b7334be9.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c886/c59f688b3b1663bf12dfa75e97423ca1fa4c79d5f712ff2e6a262d4fb5da.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        10.  NEW 여성 누빔 경량패딩/후드 숏 패딩 자켓/데일리 웰론 패딩 점퍼/겨울 아우터/루즈핏 여성 퀼팅자켓/보온과 패션을 겸비 
+                        10.  데스커 DSAD610P 1인 노트북 책상 (빌트인 콘센트) 1000X600, 화이트+화이트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">19%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">28,990원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">155,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 36개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 33개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7825721610&traceid=V0-153&itemId=21269815075&vendorItemId=88330074465" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=161314697&traceid=V0-153&itemId=14862218017&vendorItemId=71054213826" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>

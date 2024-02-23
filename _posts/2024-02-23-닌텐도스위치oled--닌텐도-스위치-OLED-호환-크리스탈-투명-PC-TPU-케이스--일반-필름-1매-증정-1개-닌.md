@@ -1,12 +1,12 @@
 ---
-title: "경량패딩 추천 TOP10 -  남성용 경량 웰론 퀼팅 패딩 자켓 "
+title: "닌텐도스위치oled 추천 TOP10 -  닌텐도 스위치 OLED 호환 크리스탈 투명 PC TPU 케이스 + 일반 필름 1매 증정, 1개, 닌텐도스위치 OLED 크리"
 author: SmartWiki
 categories: shopping
 tags: [Top10, shopping]
 pin: true
 ---
 
-> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**경량패딩**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**닌텐도스위치oled**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
 <style>
     /* 기본 스타일 */
     .product-box {
@@ -58,27 +58,27 @@ pin: true
 <div>
 
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012090&vendorItemId=87289714604" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6229011092&traceid=V0-153&itemId=12507607159&vendorItemId=79636423863" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/68ca/8a8bd4b0a429e0dffed63de7cb13704348598a8b484c95931d661ea8272f.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b8c5/41493f8ea924bd8f3cd181ada1c5fe58930cd820eae4666e797ee7c8ddc5.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        1.  남성용 경량 웰론 퀼팅 패딩 자켓 
+                        1.  닌텐도 스위치 OLED 호환 크리스탈 투명 PC TPU 케이스 + 일반 필름 1매 증정, 1개, 닌텐도스위치 OLED 크리스탈 케이스 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">8%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">38,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">9,900원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1259개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 309개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012090&vendorItemId=87289714604" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6229011092&traceid=V0-153&itemId=12507607159&vendorItemId=79636423863" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -87,27 +87,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111546173&traceid=V0-153&itemId=3586762063&vendorItemId=71572557005" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6144682744&traceid=V0-153&itemId=11815448612&vendorItemId=79088959711" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2216017694578747-69c2e653-ccab-4632-bb47-b7b9403552af.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2021/10/26/9/1/c04122ea-de59-4be7-b5bc-70e7d2884a66.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        2.  캐럿 남여공용 경량 범버 자켓 
+                        2.  닌텐도 스위치 OLED 모델, 네온블루 + 네온레드 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">33%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">29,990원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">373,800원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 5250개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 569개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111546173&traceid=V0-153&itemId=3586762063&vendorItemId=71572557005" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6144682744&traceid=V0-153&itemId=11815448612&vendorItemId=79088959711" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -116,27 +116,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111547303&traceid=V0-153&itemId=3586763453&vendorItemId=71572558508" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6111001286&traceid=V0-153&itemId=11517294974&vendorItemId=87852980494" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2220460223953644-bc8921c0-d40f-4097-b881-ca03ba194556.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/08d7/6cc00af22e03d9ab2319d5c3622c0b80584e4932315cc89898276d1f7ffd.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        3.  캐럿 남성용 경량 패딩 자켓 
+                        3.  닌텐도 스위치 OLED모델, 화이트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">24,990원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">409,540원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 4991개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1740개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111547303&traceid=V0-153&itemId=3586763453&vendorItemId=71572558508" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6111001286&traceid=V0-153&itemId=11517294974&vendorItemId=87852980494" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -145,27 +145,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6059623179&traceid=V0-153&itemId=11136432287&vendorItemId=78414929918" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6811807984&traceid=V0-153&itemId=16116970748&vendorItemId=87781847473" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7598188672585429-36834081-4dd5-4feb-88e1-dc0d79f81338.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/11/15/14/6/a2f44da3-a797-4c97-a4a3-7804d4816112.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        4.  캐럿 여성용 경량 덕다운 오리털 자켓 
+                        4.  닌텐도 스위치 OLED 스칼렛 바이올렛 에디션 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">30,890원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">374,280원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 2677개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 152개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6059623179&traceid=V0-153&itemId=11136432287&vendorItemId=78414929918" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6811807984&traceid=V0-153&itemId=16116970748&vendorItemId=87781847473" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -174,13 +174,42 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012089&vendorItemId=87289714535" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6106135692&traceid=V0-153&itemId=11476822586&vendorItemId=78752174636" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/3acf/1399899abb9d9b6a32cd5d3aa24806bd9211f2e7e08ccd3c4c00ef4b193a.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9010/bff63af91565d680f0e3d30969546e0adcc99f216b6dce205cf93286753d.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        5.  남성용 경량 웰론 퀼팅 패딩 자켓 
+                        5.  에이아이라이프 닌텐도 스위치 OLED 악세사리 스타터 세트 올인원 키트 필름 1+1 수납가방 케이스 게임팩 보관 스트랩, 닌텐도 스위치 OLED 악세사리 키트 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">34%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">16,400원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 104개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6106135692&traceid=V0-153&itemId=11476822586&vendorItemId=78752174636" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6468908825&traceid=V0-153&itemId=14110990399&vendorItemId=81358000097" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/eec1/95a4c8656f50e40e275521f90e629560001fb80c4ccab67518c17413059a.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        6.  아싸라봉 닌텐도 스위치 OLED 하이엔드 패키지 12종 케이스 가방 강화유리 그립 거치대 악세사리 세트, 스위치용 끝판왕 패키지, 1개 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">34%</span>
@@ -189,12 +218,12 @@ pin: true
                         <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">38,900원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1259개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 72개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012089&vendorItemId=87289714535" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6468908825&traceid=V0-153&itemId=14110990399&vendorItemId=81358000097" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -203,56 +232,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6174744148&traceid=V0-153&itemId=12078522253&vendorItemId=79350471451" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7262773861&traceid=V0-153&itemId=18503388089&vendorItemId=85642548418" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6c4f/9dec491f1a50438ee099885263c32222c7364fc758bb2d40a7f24513e488.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/04/12/12/5/2c2a27b9-7c08-43ba-a3aa-84b22154d01a.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        6.  해리슨(당일출고) 다운라이크 노카라 경량 패딩 JM171 WSP1421 
-                    </h3>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">34%</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">38,800원</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 105개
-                    </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6174744148&traceid=V0-153&itemId=12078522253&vendorItemId=79350471451" target="_blank" style="display: inline-block; padding: 10px 20px; 
-                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
-                        [상품 더보기]
-                    </a>
-                </div>
-            </a>
-        </div>
-        
-        <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7432580016&traceid=V0-153&itemId=19307405374&vendorItemId=86421731808" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1379689148863377-a6b85835-0547-4cff-84c6-79da01a17aa5.jpg" width="300" height="300" style="object-fit: cover;">
-                </div>
-                <div style="margin-left: 20px; text-align: left; flex: 1;">
-                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        7.  ELLE PARIS 여성용 경량 패딩 점퍼 
+                        7.  닌텐도 스위치 OLED 모델 젤다의 전설 티어스 오브 더 킹덤 에디션 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">10%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">32,890원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">389,450원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 462개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 81개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7432580016&traceid=V0-153&itemId=19307405374&vendorItemId=86421731808" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7262773861&traceid=V0-153&itemId=18503388089&vendorItemId=85642548418" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -261,27 +261,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6673869287&traceid=V0-153&itemId=15364398208&vendorItemId=82584581221" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6724056337&traceid=V0-153&itemId=15645664309&vendorItemId=87781847447" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/8485207648201602-26076caa-87f3-4729-86fa-7dad75c18e2f.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/11/15/14/9/a0cba532-8faa-414c-bc72-bca4b789ae99.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        8.  ELLE PARIS 여성 경량 덕다운 숏 자켓 
+                        8.  닌텐도 스위치 OLED 스플래툰3 에디션, 1개 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">32,690원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">389,230원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1635개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 84개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6673869287&traceid=V0-153&itemId=15364398208&vendorItemId=82584581221" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6724056337&traceid=V0-153&itemId=15645664309&vendorItemId=87781847447" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -290,27 +290,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7584509169&traceid=V0-153&itemId=20028068748&vendorItemId=87126162464" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6142801820&traceid=V0-153&itemId=11797741270&vendorItemId=79071327859" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/489e/f7291cd5db992f2a77f897979f3c2044eebfa4d3daa189805ff9d615d870.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/pidzfolk/5aa47cd456ed4499b0651b522cf88961.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        9.  비소프 긴팔 루즈핏 집업 니트 
+                        9.  슈퍼 XDR 글래스 닌텐도 스위치 OLED 강화유리 보호필름 2p, 1개, E86 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">50%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">27,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">9,820원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 92개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 758개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7584509169&traceid=V0-153&itemId=20028068748&vendorItemId=87126162464" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6142801820&traceid=V0-153&itemId=11797741270&vendorItemId=79071327859" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -319,27 +319,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7825721610&traceid=V0-153&itemId=21269815075&vendorItemId=88330074465" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7621212016&traceid=V0-153&itemId=20206157321&vendorItemId=88001278955" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a2e5/591bdcbf5d84608f9cb6ad39b439dce1b3fbba7646c5ddd486c5b7334be9.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/12/07/14/8/6f55b1a0-0463-499a-adb6-05b560d44393.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        10.  NEW 여성 누빔 경량패딩/후드 숏 패딩 자켓/데일리 웰론 패딩 점퍼/겨울 아우터/루즈핏 여성 퀼팅자켓/보온과 패션을 겸비 
+                        10.  닌텐도 스위치 OLED 마리오 레드 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">19%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">28,990원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">378,500원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 36개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 32개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7825721610&traceid=V0-153&itemId=21269815075&vendorItemId=88330074465" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7621212016&traceid=V0-153&itemId=20206157321&vendorItemId=88001278955" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>

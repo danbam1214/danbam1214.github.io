@@ -1,12 +1,12 @@
 ---
-title: "경량패딩 추천 TOP10 -  남성용 경량 웰론 퀼팅 패딩 자켓 "
+title: "테니스화 추천 TOP10 -  SUCL 슈클 ZEUS 테니스화 TENNIS "
 author: SmartWiki
 categories: shopping
 tags: [Top10, shopping]
 pin: true
 ---
 
-> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**경량패딩**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**테니스화**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
 <style>
     /* 기본 스타일 */
     .product-box {
@@ -58,27 +58,27 @@ pin: true
 <div>
 
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012090&vendorItemId=87289714604" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7121964207&traceid=V0-153&itemId=17834648514&vendorItemId=84998358900" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/68ca/8a8bd4b0a429e0dffed63de7cb13704348598a8b484c95931d661ea8272f.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b126/4e59b86a2f956c20aa177dec24ac96c4a4355e2529e4a038aef8b5a6a851.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        1.  남성용 경량 웰론 퀼팅 패딩 자켓 
+                        1.  SUCL 슈클 ZEUS 테니스화 TENNIS 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">8%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">38,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">49,800원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1259개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 115개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012090&vendorItemId=87289714604" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7121964207&traceid=V0-153&itemId=17834648514&vendorItemId=84998358900" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -87,27 +87,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111546173&traceid=V0-153&itemId=3586762063&vendorItemId=71572557005" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7462722486&traceid=V0-153&itemId=19455187755&vendorItemId=87282739717" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2216017694578747-69c2e653-ccab-4632-bb47-b7b9403552af.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2609/4f4bc2ef9a4872477c3b69477af7c8385243d32abec4e2f0a7e25f34a6c2.png" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        2.  캐럿 남여공용 경량 범버 자켓 
+                        2.  아디다스 GC2 M 테니스화 운동화 남성 입문자용 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">33%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">29,990원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">76,900원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 5250개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 14개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111546173&traceid=V0-153&itemId=3586762063&vendorItemId=71572557005" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7462722486&traceid=V0-153&itemId=19455187755&vendorItemId=87282739717" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -116,27 +116,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111547303&traceid=V0-153&itemId=3586763453&vendorItemId=71572558508" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7361463113&traceid=V0-153&itemId=18967303393&vendorItemId=86984776669" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2220460223953644-bc8921c0-d40f-4097-b881-ca03ba194556.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/1def/0aff09dc861c768039ad098fdb7c655a448f810d5fe0ca422a5900e027c8.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        3.  캐럿 남성용 경량 패딩 자켓 
+                        3.  [아디다스] 게임코트 2 IG9568 테니스화/운동화 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">24,990원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">48,800원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 4.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 4991개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 7개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111547303&traceid=V0-153&itemId=3586763453&vendorItemId=71572558508" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7361463113&traceid=V0-153&itemId=18967303393&vendorItemId=86984776669" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -145,27 +145,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6059623179&traceid=V0-153&itemId=11136432287&vendorItemId=78414929918" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7660218785&traceid=V0-153&itemId=20406080105&vendorItemId=87488453132" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7598188672585429-36834081-4dd5-4feb-88e1-dc0d79f81338.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/75df/c300f1e6f4c23a4b587218461b342982545fa1207ea5316ba95b044417ac.png" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        4.  캐럿 여성용 경량 덕다운 오리털 자켓 
+                        4.  아디다스 CF 테니스화 운동화 남성 입문자용 클레이 하드코트 AT0229 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">30,890원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">99,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 2677개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 10개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6059623179&traceid=V0-153&itemId=11136432287&vendorItemId=78414929918" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7660218785&traceid=V0-153&itemId=20406080105&vendorItemId=87488453132" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -174,27 +174,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012089&vendorItemId=87289714535" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7618339357&traceid=V0-153&itemId=20192338061&vendorItemId=83900101409" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/3acf/1399899abb9d9b6a32cd5d3aa24806bd9211f2e7e08ccd3c4c00ef4b193a.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/e5ae/b84da078b62b13c5d77a1584bc8e0cae1039261c5bffbce2041b61e1f597.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        5.  남성용 경량 웰론 퀼팅 패딩 자켓 
+                        5.  슈클(SUCL) MONSTER 테니스화 배드민턴화 탁구화 배구화 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">34%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">38,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">43,500원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1259개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 355개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012089&vendorItemId=87289714535" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7618339357&traceid=V0-153&itemId=20192338061&vendorItemId=83900101409" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -203,27 +203,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6174744148&traceid=V0-153&itemId=12078522253&vendorItemId=79350471451" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7799987254&traceid=V0-153&itemId=21122380564&vendorItemId=88184167698" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6c4f/9dec491f1a50438ee099885263c32222c7364fc758bb2d40a7f24513e488.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b50e/5bce198cdc65aeb91c4eaebd45ad6f39a74cd6a35f4aae9a8ee31ed0495a.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        6.  해리슨(당일출고) 다운라이크 노카라 경량 패딩 JM171 WSP1421 
+                        6.  [clartte] 배드민턴화 생고무창 운동화 스쿼시화 실내스포츠화 탁구화 배구화 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">34%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">38,800원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">29,900원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 4.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 105개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 12개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6174744148&traceid=V0-153&itemId=12078522253&vendorItemId=79350471451" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7799987254&traceid=V0-153&itemId=21122380564&vendorItemId=88184167698" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -232,27 +232,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7432580016&traceid=V0-153&itemId=19307405374&vendorItemId=86421731808" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6973889905&traceid=V0-153&itemId=17017163299&vendorItemId=84192842077" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1379689148863377-a6b85835-0547-4cff-84c6-79da01a17aa5.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/7064/88b76ec12a6a2dfa2b59ca3003b8aaaa0175402840819ef06d188dab4f81.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        7.  ELLE PARIS 여성용 경량 패딩 점퍼 
+                        7.  아디다스 코트잼 컨트롤 M(GW2984) 아디다스 남자 테니스화 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">10%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">32,890원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">52,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 462개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 3개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7432580016&traceid=V0-153&itemId=19307405374&vendorItemId=86421731808" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6973889905&traceid=V0-153&itemId=17017163299&vendorItemId=84192842077" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -261,27 +261,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6673869287&traceid=V0-153&itemId=15364398208&vendorItemId=82584581221" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6320605689&traceid=V0-153&itemId=13170924103&vendorItemId=80429590780" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/8485207648201602-26076caa-87f3-4729-86fa-7dad75c18e2f.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/dc14/51aed44ee22d95ff48f2dd38cc11560342ae82e9a3110607000673392b49.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        8.  ELLE PARIS 여성 경량 덕다운 숏 자켓 
+                        8.  SUCL 슈클 제우스 WHITE 테니스화 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">32,690원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">49,800원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1635개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 229개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6673869287&traceid=V0-153&itemId=15364398208&vendorItemId=82584581221" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6320605689&traceid=V0-153&itemId=13170924103&vendorItemId=80429590780" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -290,19 +290,19 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7584509169&traceid=V0-153&itemId=20028068748&vendorItemId=87126162464" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7337712657&traceid=V0-153&itemId=18852341120&vendorItemId=85981605650" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/489e/f7291cd5db992f2a77f897979f3c2044eebfa4d3daa189805ff9d615d870.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5ec3/975471c5e6c950a74cf30b8667f4cdcdcd9d4f2182ab0ec564720d8c64b0.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        9.  비소프 긴팔 루즈핏 집업 니트 
+                        9.  미즈노 사이클론 스피드4 화이트골드 배드민턴화 체대입시화 배구화 스쿼시화 실내운동 인도어화 V1GA238058 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">50%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">27,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">69,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
@@ -310,7 +310,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 92개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7584509169&traceid=V0-153&itemId=20028068748&vendorItemId=87126162464" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7337712657&traceid=V0-153&itemId=18852341120&vendorItemId=85981605650" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -319,27 +319,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7825721610&traceid=V0-153&itemId=21269815075&vendorItemId=88330074465" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7553545571&traceid=V0-153&itemId=19884327118&vendorItemId=86984757039" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a2e5/591bdcbf5d84608f9cb6ad39b439dce1b3fbba7646c5ddd486c5b7334be9.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6159/c2a0ff705da997d5b21ad6fb790f206b90083a33a3e5b7e0597b21d1006a.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        10.  NEW 여성 누빔 경량패딩/후드 숏 패딩 자켓/데일리 웰론 패딩 점퍼/겨울 아우터/루즈핏 여성 퀼팅자켓/보온과 패션을 겸비 
+                        10.  아디다스 게임코트 2 IG9567 테니스화/운동화 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">19%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">28,990원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">50,130원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 36개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 39개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7825721610&traceid=V0-153&itemId=21269815075&vendorItemId=88330074465" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7553545571&traceid=V0-153&itemId=19884327118&vendorItemId=86984757039" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>

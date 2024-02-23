@@ -1,12 +1,12 @@
 ---
-title: "경량패딩 추천 TOP10 -  남성용 경량 웰론 퀼팅 패딩 자켓 "
+title: "로마샴푸 추천 TOP10 -  [Loma] 로마 Hair Care 너리싱 영양 샴푸 + 컨디셔너 1L세트 "
 author: SmartWiki
 categories: shopping
 tags: [Top10, shopping]
 pin: true
 ---
 
-> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**경량패딩**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**로마샴푸**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
 <style>
     /* 기본 스타일 */
     .product-box {
@@ -58,27 +58,27 @@ pin: true
 <div>
 
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012090&vendorItemId=87289714604" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6890414484&traceid=V0-153&itemId=16540357061&vendorItemId=85645881989" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/68ca/8a8bd4b0a429e0dffed63de7cb13704348598a8b484c95931d661ea8272f.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/063b/60a4825a1f2c82e7b82dac4db0cacf01f6fcf64a0604f03988b8c130144a.jpeg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        1.  남성용 경량 웰론 퀼팅 패딩 자켓 
+                        1.  [Loma] 로마 Hair Care 너리싱 영양 샴푸 + 컨디셔너 1L세트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">8%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">38,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">92,240원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1259개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 17개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012090&vendorItemId=87289714604" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6890414484&traceid=V0-153&itemId=16540357061&vendorItemId=85645881989" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -87,27 +87,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111546173&traceid=V0-153&itemId=3586762063&vendorItemId=71572557005" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6740242688&traceid=V0-153&itemId=15732958109&vendorItemId=82946914416" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2216017694578747-69c2e653-ccab-4632-bb47-b7b9403552af.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c23e/c339adbfa246aa7d6f6413c3689b28d3c18febecb9d2c98264346f7c6598.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        2.  캐럿 남여공용 경량 범버 자켓 
+                        2.  [로마] [본사직영★빠른배송] 너리싱 샴푸+컨디셔너 1L 세트+샴푸 88ML+쇼핑백, 1세트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">33%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">29,990원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">112,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 5250개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 48개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111546173&traceid=V0-153&itemId=3586762063&vendorItemId=71572557005" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6740242688&traceid=V0-153&itemId=15732958109&vendorItemId=82946914416" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -116,27 +116,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111547303&traceid=V0-153&itemId=3586763453&vendorItemId=71572558508" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7835688052&traceid=V0-153&itemId=21318652978&vendorItemId=88378048501" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2220460223953644-bc8921c0-d40f-4097-b881-ca03ba194556.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/yvhfu2ru/8018ac07389d4ee28bdcfdca170f7985.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        3.  캐럿 남성용 경량 패딩 자켓 
+                        3.  피토니끄 센티드 딥 퍼퓸 리페어 샴푸 플로럴머스트향, 1000ml, 2개 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">24,990원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">24,900원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 4991개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 336개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2111547303&traceid=V0-153&itemId=3586763453&vendorItemId=71572558508" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7835688052&traceid=V0-153&itemId=21318652978&vendorItemId=88378048501" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -145,27 +145,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6059623179&traceid=V0-153&itemId=11136432287&vendorItemId=78414929918" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6714255300&traceid=V0-153&itemId=873339613&vendorItemId=86861151868" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/7598188672585429-36834081-4dd5-4feb-88e1-dc0d79f81338.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2ef9/88b6061a2865d88d1607d564c286716c1afaa3ce25352610c9534dc89597.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        4.  캐럿 여성용 경량 덕다운 오리털 자켓 
+                        4.  LOMA 로마 너리싱 샴푸, 1000ml, 1개 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">30,890원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">59,400원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 2677개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 434개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6059623179&traceid=V0-153&itemId=11136432287&vendorItemId=78414929918" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6714255300&traceid=V0-153&itemId=873339613&vendorItemId=86861151868" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -174,27 +174,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012089&vendorItemId=87289714535" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=5677516299&traceid=V0-153&itemId=9367595848&vendorItemId=76652835189" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/3acf/1399899abb9d9b6a32cd5d3aa24806bd9211f2e7e08ccd3c4c00ef4b193a.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3661273218117047-918c0e76-e55e-428f-bfd4-87f53816bacb.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        5.  남성용 경량 웰론 퀼팅 패딩 자켓 
+                        5.  프로방스 아로마 허브 테라피 샴푸 화이트머스크 1L x 2p + 트리트먼트 화이트머스크 1L, 1세트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">34%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">38,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">27,200원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1259개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 59개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7634511941&traceid=V0-153&itemId=20270012089&vendorItemId=87289714535" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=5677516299&traceid=V0-153&itemId=9367595848&vendorItemId=76652835189" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -203,27 +203,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6174744148&traceid=V0-153&itemId=12078522253&vendorItemId=79350471451" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=239689305&traceid=V0-153&itemId=1038262740&vendorItemId=5493633493" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6c4f/9dec491f1a50438ee099885263c32222c7364fc758bb2d40a7f24513e488.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/3661314256760348-32c1f2f2-8a80-4c49-974d-0c3b011623db.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        6.  해리슨(당일출고) 다운라이크 노카라 경량 패딩 JM171 WSP1421 
+                        6.  프로방스 바이올렛 샴푸, 1L, 2개 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">34%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">38,800원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">24,900원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 105개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1687개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6174744148&traceid=V0-153&itemId=12078522253&vendorItemId=79350471451" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=239689305&traceid=V0-153&itemId=1038262740&vendorItemId=5493633493" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -232,27 +232,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7432580016&traceid=V0-153&itemId=19307405374&vendorItemId=86421731808" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7685531766&traceid=V0-153&itemId=20537721909&vendorItemId=87614396183" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1379689148863377-a6b85835-0547-4cff-84c6-79da01a17aa5.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8243/174491b7d8bc54dd0aa869e3b53cc8a43ed91ceb661955deb9f7cd600ea8.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        7.  ELLE PARIS 여성용 경량 패딩 점퍼 
+                        7.  [로마] [본사직영★빠른배송] 너리싱 샴푸+컨디셔너 1L 세트+컨디셔너 88ML+쇼핑백, 상세 설명 참조 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">10%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">32,890원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">98,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 462개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7432580016&traceid=V0-153&itemId=19307405374&vendorItemId=86421731808" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7685531766&traceid=V0-153&itemId=20537721909&vendorItemId=87614396183" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -261,27 +261,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6673869287&traceid=V0-153&itemId=15364398208&vendorItemId=82584581221" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6890414513&traceid=V0-153&itemId=16540357186&vendorItemId=83727070599" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/8485207648201602-26076caa-87f3-4729-86fa-7dad75c18e2f.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/af48/e28986cb19ab5357e99331920d90c51f90162ba454f435280656b2f04c40.png" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        8.  ELLE PARIS 여성 경량 덕다운 숏 자켓 
+                        8.  [Loma] 로마 Hair Care 데일리 샴푸 + 컨디셔너 1L세트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">32,690원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">80,520원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1635개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 3개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6673869287&traceid=V0-153&itemId=15364398208&vendorItemId=82584581221" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6890414513&traceid=V0-153&itemId=16540357186&vendorItemId=83727070599" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -290,27 +290,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7584509169&traceid=V0-153&itemId=20028068748&vendorItemId=87126162464" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=5672899855&traceid=V0-153&itemId=18741627369&vendorItemId=85873890796" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/489e/f7291cd5db992f2a77f897979f3c2044eebfa4d3daa189805ff9d615d870.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/ab1fadd7-23fe-4234-b91e-dd7a3d8aefcf7247598638747816795.png" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        9.  비소프 긴팔 루즈핏 집업 니트 
+                        9.  닥터라파알 블루 탈모 샴푸 1L + 단백질 트리트먼트 플로럴머스크향 1L, 2세트 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">50%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">27,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">45,800원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 92개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 635개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7584509169&traceid=V0-153&itemId=20028068748&vendorItemId=87126162464" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=5672899855&traceid=V0-153&itemId=18741627369&vendorItemId=85873890796" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -319,27 +319,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7825721610&traceid=V0-153&itemId=21269815075&vendorItemId=88330074465" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7277594912&traceid=V0-153&itemId=18573741595&vendorItemId=85710741775" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a2e5/591bdcbf5d84608f9cb6ad39b439dce1b3fbba7646c5ddd486c5b7334be9.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/33a0/b8a7ee1e338ade2609759b2d95636caf50c607eefa6488bbeafe53f2c2d1.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        10.  NEW 여성 누빔 경량패딩/후드 숏 패딩 자켓/데일리 웰론 패딩 점퍼/겨울 아우터/루즈핏 여성 퀼팅자켓/보온과 패션을 겸비 
+                        10.  [로마] [본사직영★빠른배송] 너리싱 샴푸 1L 2개 듀오세트+샴푸 88ML+쇼핑백, 상세 설명 참조 
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">19%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">28,990원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">110,400원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 36개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 7개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7825721610&traceid=V0-153&itemId=21269815075&vendorItemId=88330074465" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7277594912&traceid=V0-153&itemId=18573741595&vendorItemId=85710741775" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
